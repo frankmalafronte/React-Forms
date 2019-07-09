@@ -6,13 +6,13 @@ class Form extends Component {
     this.state={}
   }
 
-  // handleChange = (event) =>{
-  //   console.log(event.target.value)
-  // }
+  handleChange = (event) =>{
+    console.log(event.target.value)
+  }
 
   render(){
     return(
-   
+      
     )
   }
 }
